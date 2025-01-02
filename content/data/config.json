@@ -70,7 +70,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "+33 7 50 71 52 62",
             "email": "contact@fadelogidal.com",
             "emailAltText": "My email",
