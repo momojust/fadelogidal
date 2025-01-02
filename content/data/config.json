@@ -59,12 +59,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "",
-                "altText": ""
             }
         ],
         "contacts": {
