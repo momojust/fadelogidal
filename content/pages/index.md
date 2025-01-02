@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: fadelogidal
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Création de sites web sur mesure, applications et solutions digitales pour
+      les entreprises et particuliers à Paris et partout en France.
     styles:
       self:
         height: auto
